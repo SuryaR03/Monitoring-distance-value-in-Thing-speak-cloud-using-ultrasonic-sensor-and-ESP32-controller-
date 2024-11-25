@@ -1,6 +1,6 @@
 ## NAME : SURYA R
 ## REG NO : 212223110056
-# EX-06 Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+# EX-06 Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
 # AIM:
